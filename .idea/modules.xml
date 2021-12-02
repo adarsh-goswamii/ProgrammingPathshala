@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Arrays and Dynamic Arrays/Arrays and Dynamic Arrays.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Arrays and Dynamic Arrays/Arrays and Dynamic Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Backtracking/Backtracking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Mathematics/Mathematics.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Mathematics/Mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Arrays/Assignment 1/Assignment 1.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Arrays/Assignment 1/Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Arrays/Homework 1/Homework 1.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Arrays/Homework 1/Homework 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingPathshala.iml" filepath="$PROJECT_DIR$/ProgrammingPathshala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Recursion/Recursion.iml" />
     </modules>
   </component>
 </project>
