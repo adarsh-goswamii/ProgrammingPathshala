@@ -1,0 +1,5 @@
+1. gcc -o filename filename.cpp 
+2. ./filename.exe
+
+1. javac filename.java
+2. java filename

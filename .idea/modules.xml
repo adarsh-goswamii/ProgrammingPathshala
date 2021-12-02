@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Arrays and Dynamic Arrays/Arrays and Dynamic Arrays.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Arrays and Dynamic Arrays/Arrays and Dynamic Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Mathematics/Mathematics.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Mathematics/Mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingPathshala.iml" filepath="$PROJECT_DIR$/ProgrammingPathshala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GearingUp/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Section1/GearingUp/Recursion/Recursion.iml" />
+    </modules>
+  </component>
+</project>
